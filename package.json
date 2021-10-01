@@ -1,0 +1,26 @@
+{
+  "name": "easy-peasy-example-v3",
+  "version": "1.0.0",
+  "description": "An example of how to use easy-peasy - a global state library for React that supports the new Hooks feature.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "easy-peasy": "3.0.0-rc.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
